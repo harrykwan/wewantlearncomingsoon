@@ -40,7 +40,7 @@ h6,
   padding: 20px 0;
   position: relative;
   z-index: 10;
-  background: #273665;
+  background: #425696;
 }
 
 #header .logo h1 {
@@ -90,7 +90,7 @@ h6,
   width: 100%;
   height: 100vh;
   background: url("../img/hero-bg.jpg") top center;
-  background: #f96e69;
+  background: #ff7878;
   background-size: cover;
   position: relative;
   margin-top: -80px;
@@ -349,7 +349,7 @@ section {
   font-weight: 600;
 }
 
-.contact .php-email-form .error-message br+br {
+.contact .php-email-form .error-message br + br {
   margin-top: 25px;
 }
 
